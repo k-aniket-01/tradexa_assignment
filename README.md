@@ -106,7 +106,7 @@ Output included:
 1. Clone the repository:
 
 ```bash
-git clone (https://github.com/k-aniket-01/tradexa_assignment.git)
+git clone https://github.com/k-aniket-01/tradexa_assignment.git
 cd tradexa_assignment
 ```
 
